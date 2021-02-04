@@ -1,7 +1,7 @@
 # redesign-lazada
 Latihan sederhana menyontoh halaman Lazada menggunakan Bootstrap V5.
 Repo ini hanya untuk mengarsip hasil pekerjaan saya.
-Hasil yang sudah di-*deploy* dapat Anda lihat di http://rocky-retreat-58140.herokuapp.com/
+Hasil yang sudah di-*deploy* dapat Anda lihat di [Github Pages](https://b1994mi.github.io/redesign-lazada)
 
 ## Highlights
 - Carousel yang warna background-nya mengikuti urutan item dalam carousel;
